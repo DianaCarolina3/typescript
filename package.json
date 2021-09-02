@@ -1,0 +1,21 @@
+{
+  "name": "fundamentos-ts",
+  "version": "1.0.0",
+  "description": "Este es el curso de fundamentos de typescript",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [
+    "typescript",
+    "javascript"
+  ],
+  "author": "Diana Carolina Campuzano Garzon <dcaroli2015@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-loader": "^9.2.5",
+    "typescript": "^4.4.2",
+    "webpack": "^5.51.1",
+    "webpack-cli": "^4.8.0"
+  }
+}
